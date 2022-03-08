@@ -1,2 +1,2 @@
-# primeiro-repositorio-git-github
-iniciando estudos do git hub
+# primeiro-repositorio-git-github-desasfio-dio.me
+iniciando estudos do git/github
